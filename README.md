@@ -1,6 +1,6 @@
 # TimeSeries_R
 
-화훼 가격 예측 프로젝트를 위한 코드 저장소입니다.
+양재 화훼 공판장의 장미 가격 예측 프로젝트 코드 저장소입니다.
 
-환경 :  R studio
-데이터 : flowers.csv
+분석 tool : R studio
+가격 데이터 : flowers.csv
